@@ -1,2 +1,4 @@
 # flappy_bird
-simple implementation flappy bird 
+## Simple implementation flappy bird
+
+![](materials/../src/materials/game.gif)
